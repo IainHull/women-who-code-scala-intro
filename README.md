@@ -77,6 +77,10 @@ Now run sbt from the docker command-line.
 # sbt
 ```
 
+## Tutorial
+
+1. [Basics](tutorial/01-basics.md)
+1. [Case classes](tutorial/02-caseclasses.md)
 
 ## FAQ
 
