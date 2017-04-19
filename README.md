@@ -16,6 +16,14 @@ This introduction is based on the book [Atomic Scala](http://www.atomicscala.com
 
 To keep things simple I am going to use git, sbt and the atom editor for this introduction. There is also a docker image containing the code and a full command-line development environment.
 
+**Or just use a online Scala REPL**
+
+### Online Scala REPL
+
+There are a number of online Scala REPLs that will let you work through this code.
+
+* https://codebunk.com
+
 ### Java
 
 Scala is a JVM language you will need to install the [Java Development Kit](https://www.java.com/en/download/help/index_installing.xml) to follow this tutorial. If installing this for the first time select version 8.  You can also use version 7 if its installed already.
@@ -81,6 +89,7 @@ Now run sbt from the docker command-line.
 
 1. [Basics](tutorial/01-basics.md)
 1. [Case classes](tutorial/02-caseclasses.md)
+1. [Collections](tutorial/03-collections.md)
 
 ## FAQ
 
