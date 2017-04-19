@@ -22,8 +22,8 @@ case class Dog(name: String, breed: String) extends Pet
 ## Objects can extend traits and classes
 
 ```scala
-  case object OmniPet extends object {
-	val name = "OmniPet"
+case object OmniPet extends Pet {
+  val name = "OmniPet"
 }
 ```
 
